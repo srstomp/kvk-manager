@@ -10,9 +10,8 @@ from bs4 import (
     NavigableString,
     Tag
 )
-import urllib3
 import re
-from urllib.parse import urlparse
+from urllib.parse import quote
 
 # l7xx2cca3b2798df458a8a8d49e8e0a4478e
 # l7xx6752e2e19e9c4f80afc28352c2a3cec8
@@ -64,9 +63,8 @@ class KVKClient:
         self.logger.info('Fetching postal codes from {}'.format(POSTAL_CODE_URL))
 
         # fetch html data
-        http_pool = urllib3.connection_from_url(POSTAL_CODE_URL)
-        html = http_pool.urlopen('GET', POSTAL_CODE_URL)
-        soup = BeautifulSoup(html.data, 'html.parser')
+        request = requests.get(POSTAL_CODE_URL)
+        soup = BeautifulSoup(request.text, 'html.parser')
 
         # find all postal codes via regex
         pattern = re.compile(r"^(\d)(\d)(\d)(\d)$")
@@ -83,18 +81,13 @@ class KVKClient:
         return postalcodes
 
     def search_company(self, zoekterm):
-        #escaped_string = urlparse()
-        #print(escaped_string)
         # search the kvk website for a company and then parse the address from it
-       # return zoekterm
-        zoekterm = 'code%26coding'
-        website = 'https://zoeken.kvk.nl/search.ashx?handelsnaam=' + zoekterm + '&kvknummer=&straat=&postcode=&huisnummer=&plaats=&hoofdvestiging=1&rechtspersoon=1&nevenvestiging=1&zoekvervallen=0&zoekuitgeschreven=1&start=0&searchfield=uitgebreidzoeken'
-        #print(url(website))
+        print(zoekterm)
+        urlencodedString = quote(zoekterm)
+        return urlencodedString
+        website = 'https://zoeken.kvk.nl/search.ashx?handelsnaam=' + urlencodedString + '&kvknummer=&straat=&postcode=&huisnummer=&plaats=&hoofdvestiging=1&rechtspersoon=1&nevenvestiging=1&zoekvervallen=0&zoekuitgeschreven=1&start=0&searchfield=uitgebreidzoeken'
         # fetch html data
-        #http_pool = urllib3.connection_from_url(website)
-        #html = http_pool.urlopen('GET', website)
-        #http = urllib3.PoolManager()
-        request = requests.get(website)#http.request('GET', website)
+        request = requests.get(website)
         print(request.content)
         soup = BeautifulSoup(request.text, 'html.parser')
 

@@ -5,6 +5,7 @@ from flask import (
     request,
     jsonify
 )
+from urllib.parse import quote
 
 app = Flask(__name__, template_folder='templates')
 
@@ -19,8 +20,11 @@ def page_not_found(e):
 @app.route('/api/v1/reggy/companies/search', methods=['GET'])
 def search():
     query_parameters = request.args
+    #return request.query_string
+    urlencodedString = quote(request.query_string)
     keywords = query_parameters.get('keywords')
-    #return keywords
+    parameters = request.query_string
+    return parameters.split('=')
     client = KVKClient()
     #return keywords
     return jsonify(client.search_company(keywords))
