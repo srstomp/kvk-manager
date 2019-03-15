@@ -1,0 +1,421 @@
+2019-03-11 13:15:56,875:INFO:KVK Client initialized with credentials
+API Key: 
+MongoDB: mongodb://localhost:27017/
+Database: Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'kvk')
+Collection: Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'kvk'), 'companies')
+2019-03-11 13:16:47,939:INFO:KVK Client initialized with credentials
+API Key: 
+MongoDB: mongodb://localhost:27017/
+Database: kvk
+Collection: companies
+2019-03-12 11:43:01,398:INFO:KVK Client initialized with credentials
+API Key: 
+MongoDB: mongodb://localhost:27017/
+Database: kvk
+Collection: companies
+2019-03-12 11:45:19,864:INFO:KVK Client initialized with credentials
+API Key: 
+MongoDB: mongodb://localhost:27017/
+Database: kvk
+Collection: companies
+2019-03-12 11:45:19,864:INFO:Fetching postal codes
+2019-03-12 11:47:04,383:INFO:KVK Client initialized with credentials
+API Key: 
+MongoDB: mongodb://localhost:27017/
+Database: kvk
+Collection: companies
+2019-03-12 11:47:04,384:INFO:Fetching postal codes
+2019-03-12 11:47:57,339:INFO:Succesfully fetched 8403 postal codes
+2019-03-12 20:54:48,217:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 20:54:48,217:INFO:Fetching postal codes
+2019-03-12 20:54:48,521:INFO:Succesfully fetched 0 postal codes
+2019-03-12 20:56:07,002:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 20:56:07,002:INFO:Fetching postal codes from http://www.metatopos.eu/nederland1.html
+2019-03-12 20:56:07,108:INFO:Succesfully fetched 0 postal codes
+2019-03-12 21:00:14,501:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 21:00:14,502:INFO:Fetching postal codes from http://www.metatopos.eu/nederland2.html
+2019-03-12 21:01:12,281:INFO:Succesfully fetched 8404 postal codes
+2019-03-12 21:56:35,618:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 21:56:49,326:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 21:59:46,493:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:02:12,042:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:04:12,385:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:04:26,930:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:05:11,146:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:05:17,996:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:09:46,646:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:11:26,740:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:12:16,102:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:14:06,909:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:15:33,025:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:15:40,628:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:16:07,733:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:17:34,595:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:18:22,706:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:19:06,072:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:19:16,945:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:19:27,480:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:19:34,647:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:20:32,978:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:21:04,656:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:24:05,498:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:35:58,745:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:36:13,521:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:38:02,818:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-12 22:38:34,541:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 11:50:57,405:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 11:52:31,989:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 11:57:31,777:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:00:18,656:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:00:35,645:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:00:45,671:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:01:14,719:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:02:26,517:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:03:10,010:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:03:55,915:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:04:50,569:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:05:23,825:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:05:39,454:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:06:03,566:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:06:13,605:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:06:30,922:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:06:50,230:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:07:16,211:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:09:48,969:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:10:36,583:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:12:52,362:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:13:17,847:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:13:46,344:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:14:02,699:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:16:34,113:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:17:20,683:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:17:40,617:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:18:22,952:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:18:33,357:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:18:46,104:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:19:54,659:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:20:56,569:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:21:14,790:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:33:01,974:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:33:13,214:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:33:27,044:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:33:36,623:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:34:05,376:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:35:05,324:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:42:31,427:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:42:41,244:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:43:59,851:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:46:06,624:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:46:22,423:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:50:40,209:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:50:49,818:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:56:36,877:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:57:10,532:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:57:21,009:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:57:28,290:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:57:41,510:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:58:36,738:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:58:51,160:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 12:59:00,773:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:00:57,335:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:02:46,138:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:03:23,417:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:03:29,763:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:03:43,674:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:03:54,429:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:04:01,583:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:06:48,390:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:07:18,945:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:07:35,011:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:07:42,443:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:08:31,221:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:08:50,250:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:08:57,231:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:44:10,572:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:44:22,346:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:44:35,020:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:45:02,182:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:45:42,142:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:45:52,093:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:46:11,350:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:46:20,240:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:46:28,268:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:47:47,346:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:48:19,760:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:48:39,513:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:49:16,299:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:50:02,725:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:50:54,900:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:51:05,787:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:51:18,473:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:51:37,762:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:51:49,200:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:51:54,263:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:51:59,093:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:52:10,838:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:52:30,441:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:53:13,419:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:53:24,750:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:53:40,372:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:53:57,343:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:54:06,665:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:54:13,023:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:54:19,882:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:55:10,996:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:55:58,302:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:56:11,666:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:56:35,069:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:57:48,818:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:57:58,736:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:58:54,595:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 13:59:26,468:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:01:47,863:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:02:27,302:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:02:33,462:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:02:41,017:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:02:51,177:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:03:17,445:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:03:34,295:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:04:14,417:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:04:24,420:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:04:42,379:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:04:54,502:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:05:02,088:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:05:33,354:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:33:28,647:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:35:37,321:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:41:09,271:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:41:39,798:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:41:54,425:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 14:42:16,566:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:09:07,104:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:09:31,044:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:09:51,713:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:10:16,446:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:21:48,687:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:23:21,347:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:23:56,400:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:24:33,973:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:24:53,996:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:24:59,462:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:25:12,933:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:25:47,030:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:25:56,269:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:26:10,303:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:26:30,484:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:26:50,258:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:27:52,169:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:28:26,715:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:30:40,824:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 15:32:20,739:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 16:19:03,278:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 16:19:50,391:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 16:22:04,194:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 16:23:04,166:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 16:25:49,521:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 16:26:38,113:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 16:27:56,763:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 16:28:35,017:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: companies
+2019-03-13 16:38:22,854:INFO:KVK Client initialized with credentials | API Key:  | MongoDB: mongodb://localhost:27017/ | Database: kvk | Collection: search
+2019-03-14 14:22:51,027:INFO:KVK Client initialized without credentials
+2019-03-14 14:22:51,129:INFO:127.0.0.1 - - [14/Mar/2019 14:22:51] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:22:51,157:INFO:127.0.0.1 - - [14/Mar/2019 14:22:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:22:51,158:INFO:127.0.0.1 - - [14/Mar/2019 14:22:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:22:51,158:INFO:127.0.0.1 - - [14/Mar/2019 14:22:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:22:51,297:INFO:127.0.0.1 - - [14/Mar/2019 14:22:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:22:51,332:INFO:127.0.0.1 - - [14/Mar/2019 14:22:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:23:36,899:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-14 14:23:45,755:INFO:KVK Client initialized without credentials
+2019-03-14 14:27:39,679:INFO:KVK Client initialized without credentials
+2019-03-14 14:27:39,761:INFO:127.0.0.1 - - [14/Mar/2019 14:27:39] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:27:39,787:INFO:127.0.0.1 - - [14/Mar/2019 14:27:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:27:39,787:INFO:127.0.0.1 - - [14/Mar/2019 14:27:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:27:39,788:INFO:127.0.0.1 - - [14/Mar/2019 14:27:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:27:39,903:INFO:127.0.0.1 - - [14/Mar/2019 14:27:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:27:39,936:INFO:127.0.0.1 - - [14/Mar/2019 14:27:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:28:31,976:INFO:KVK Client initialized without credentials
+2019-03-14 14:28:32,061:INFO:127.0.0.1 - - [14/Mar/2019 14:28:32] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:28:32,090:INFO:127.0.0.1 - - [14/Mar/2019 14:28:32] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:28:32,090:INFO:127.0.0.1 - - [14/Mar/2019 14:28:32] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:28:32,091:INFO:127.0.0.1 - - [14/Mar/2019 14:28:32] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:28:32,204:INFO:127.0.0.1 - - [14/Mar/2019 14:28:32] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:28:32,254:INFO:127.0.0.1 - - [14/Mar/2019 14:28:32] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:29:20,928:INFO:KVK Client initialized without credentials
+2019-03-14 14:29:21,032:INFO:127.0.0.1 - - [14/Mar/2019 14:29:21] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:29:21,057:INFO:127.0.0.1 - - [14/Mar/2019 14:29:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:29:21,070:INFO:127.0.0.1 - - [14/Mar/2019 14:29:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:29:21,071:INFO:127.0.0.1 - - [14/Mar/2019 14:29:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:29:21,184:INFO:127.0.0.1 - - [14/Mar/2019 14:29:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:29:21,216:INFO:127.0.0.1 - - [14/Mar/2019 14:29:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:35:33,407:INFO:KVK Client initialized without credentials
+2019-03-14 14:35:33,511:INFO:127.0.0.1 - - [14/Mar/2019 14:35:33] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:35:33,544:INFO:127.0.0.1 - - [14/Mar/2019 14:35:33] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:35:33,544:INFO:127.0.0.1 - - [14/Mar/2019 14:35:33] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:35:33,544:INFO:127.0.0.1 - - [14/Mar/2019 14:35:33] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:35:33,659:INFO:127.0.0.1 - - [14/Mar/2019 14:35:33] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:35:33,690:INFO:127.0.0.1 - - [14/Mar/2019 14:35:33] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:38:03,332:INFO:KVK Client initialized without credentials
+2019-03-14 14:38:03,416:INFO:127.0.0.1 - - [14/Mar/2019 14:38:03] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:38:03,439:INFO:127.0.0.1 - - [14/Mar/2019 14:38:03] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:38:03,441:INFO:127.0.0.1 - - [14/Mar/2019 14:38:03] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:38:03,441:INFO:127.0.0.1 - - [14/Mar/2019 14:38:03] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:38:03,563:INFO:127.0.0.1 - - [14/Mar/2019 14:38:03] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:38:03,598:INFO:127.0.0.1 - - [14/Mar/2019 14:38:03] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:39:34,830:INFO:KVK Client initialized without credentials
+2019-03-14 14:39:35,176:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-14 14:39:46,167:INFO:KVK Client initialized without credentials
+2019-03-14 14:39:46,290:INFO:127.0.0.1 - - [14/Mar/2019 14:39:46] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:39:46,314:INFO:127.0.0.1 - - [14/Mar/2019 14:39:46] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:39:46,316:INFO:127.0.0.1 - - [14/Mar/2019 14:39:46] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:39:46,317:INFO:127.0.0.1 - - [14/Mar/2019 14:39:46] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:39:46,437:INFO:127.0.0.1 - - [14/Mar/2019 14:39:46] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:39:46,469:INFO:127.0.0.1 - - [14/Mar/2019 14:39:46] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:40:22,087:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/server.py', reloading
+2019-03-14 14:40:22,657:INFO:KVK Client initialized without credentials
+2019-03-14 14:40:22,730:INFO:127.0.0.1 - - [14/Mar/2019 14:40:22] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:40:22,756:INFO:127.0.0.1 - - [14/Mar/2019 14:40:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:40:22,757:INFO:127.0.0.1 - - [14/Mar/2019 14:40:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:40:22,757:INFO:127.0.0.1 - - [14/Mar/2019 14:40:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:40:22,874:INFO:127.0.0.1 - - [14/Mar/2019 14:40:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:40:22,908:INFO:127.0.0.1 - - [14/Mar/2019 14:40:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:40:26,890:INFO:KVK Client initialized without credentials
+2019-03-14 14:40:26,955:INFO:127.0.0.1 - - [14/Mar/2019 14:40:26] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:40:26,979:INFO:127.0.0.1 - - [14/Mar/2019 14:40:26] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:40:26,979:INFO:127.0.0.1 - - [14/Mar/2019 14:40:26] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:40:26,980:INFO:127.0.0.1 - - [14/Mar/2019 14:40:26] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:40:27,066:INFO:127.0.0.1 - - [14/Mar/2019 14:40:27] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:40:27,101:INFO:127.0.0.1 - - [14/Mar/2019 14:40:27] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:40:35,032:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/server.py', reloading
+2019-03-14 14:40:35,582:INFO:KVK Client initialized without credentials
+2019-03-14 14:40:35,593:INFO:127.0.0.1 - - [14/Mar/2019 14:40:35] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:40:35,622:INFO:127.0.0.1 - - [14/Mar/2019 14:40:35] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:40:35,623:INFO:127.0.0.1 - - [14/Mar/2019 14:40:35] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:40:35,623:INFO:127.0.0.1 - - [14/Mar/2019 14:40:35] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:40:35,713:INFO:127.0.0.1 - - [14/Mar/2019 14:40:35] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:40:35,744:INFO:127.0.0.1 - - [14/Mar/2019 14:40:35] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:40:51,064:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/server.py', reloading
+2019-03-14 14:40:51,599:INFO:KVK Client initialized without credentials
+2019-03-14 14:40:51,599:INFO:127.0.0.1 - - [14/Mar/2019 14:40:51] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 200 -
+2019-03-14 14:41:07,065:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/server.py', reloading
+2019-03-14 14:41:07,558:INFO:KVK Client initialized without credentials
+2019-03-14 14:41:07,649:INFO:127.0.0.1 - - [14/Mar/2019 14:41:07] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:41:07,669:INFO:127.0.0.1 - - [14/Mar/2019 14:41:07] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:41:07,670:INFO:127.0.0.1 - - [14/Mar/2019 14:41:07] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:41:07,671:INFO:127.0.0.1 - - [14/Mar/2019 14:41:07] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:41:07,783:INFO:127.0.0.1 - - [14/Mar/2019 14:41:07] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:41:07,819:INFO:127.0.0.1 - - [14/Mar/2019 14:41:07] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:41:20,727:INFO:KVK Client initialized without credentials
+2019-03-14 14:41:21,069:INFO:127.0.0.1 - - [14/Mar/2019 14:41:21] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 500 -
+2019-03-14 14:41:21,096:INFO:127.0.0.1 - - [14/Mar/2019 14:41:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:41:21,097:INFO:127.0.0.1 - - [14/Mar/2019 14:41:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:41:21,098:INFO:127.0.0.1 - - [14/Mar/2019 14:41:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:41:21,222:INFO:127.0.0.1 - - [14/Mar/2019 14:41:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:41:21,258:INFO:127.0.0.1 - - [14/Mar/2019 14:41:21] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:42:14,689:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/server.py', reloading
+2019-03-14 14:42:18,799:INFO:KVK Client initialized without credentials
+2019-03-14 14:42:19,170:INFO:127.0.0.1 - - [14/Mar/2019 14:42:19] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 200 -
+2019-03-14 14:42:24,984:INFO:KVK Client initialized without credentials
+2019-03-14 14:42:25,310:INFO:127.0.0.1 - - [14/Mar/2019 14:42:25] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 200 -
+2019-03-14 14:42:36,159:INFO:KVK Client initialized without credentials
+2019-03-14 14:42:36,296:INFO:127.0.0.1 - - [14/Mar/2019 14:42:36] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-14 14:42:45,631:INFO:KVK Client initialized without credentials
+2019-03-14 14:42:45,691:INFO:127.0.0.1 - - [14/Mar/2019 14:42:45] "GET /api/v1/reggy/companies/search?keywords=code%20&%20coding HTTP/1.1" 500 -
+2019-03-14 14:42:45,716:INFO:127.0.0.1 - - [14/Mar/2019 14:42:45] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:42:45,717:INFO:127.0.0.1 - - [14/Mar/2019 14:42:45] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:42:45,717:INFO:127.0.0.1 - - [14/Mar/2019 14:42:45] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:42:45,812:INFO:127.0.0.1 - - [14/Mar/2019 14:42:45] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:42:45,853:INFO:127.0.0.1 - - [14/Mar/2019 14:42:45] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:42:52,988:INFO:KVK Client initialized without credentials
+2019-03-14 14:42:53,277:INFO:127.0.0.1 - - [14/Mar/2019 14:42:53] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:42:53,301:INFO:127.0.0.1 - - [14/Mar/2019 14:42:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:42:53,303:INFO:127.0.0.1 - - [14/Mar/2019 14:42:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:42:53,306:INFO:127.0.0.1 - - [14/Mar/2019 14:42:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:42:53,394:INFO:127.0.0.1 - - [14/Mar/2019 14:42:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:42:53,433:INFO:127.0.0.1 - - [14/Mar/2019 14:42:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:42:55,597:INFO:KVK Client initialized without credentials
+2019-03-14 14:42:55,933:INFO:127.0.0.1 - - [14/Mar/2019 14:42:55] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-14 14:42:55,956:INFO:127.0.0.1 - - [14/Mar/2019 14:42:55] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-14 14:42:55,958:INFO:127.0.0.1 - - [14/Mar/2019 14:42:55] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-14 14:42:55,961:INFO:127.0.0.1 - - [14/Mar/2019 14:42:55] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-14 14:42:56,042:INFO:127.0.0.1 - - [14/Mar/2019 14:42:56] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:42:56,079:INFO:127.0.0.1 - - [14/Mar/2019 14:42:56] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-14 14:42:59,963:INFO:KVK Client initialized without credentials
+2019-03-14 14:43:00,083:INFO:127.0.0.1 - - [14/Mar/2019 14:43:00] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-14 14:46:34,296:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-14 14:57:02,479:INFO:KVK Client initialized without credentials
+2019-03-14 14:57:35,438:INFO:KVK Client initialized without credentials
+2019-03-14 14:59:51,042:INFO:KVK Client initialized without credentials
+2019-03-14 15:50:14,580:INFO:KVK Client initialized without credentials
+2019-03-14 15:50:26,866:INFO:KVK Client initialized without credentials
+2019-03-14 15:50:46,733:INFO:KVK Client initialized without credentials
+2019-03-14 15:50:47,052:INFO:127.0.0.1 - - [14/Mar/2019 15:50:47] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 200 -
+2019-03-14 15:50:58,624:INFO:KVK Client initialized without credentials
+2019-03-14 15:50:58,758:INFO:127.0.0.1 - - [14/Mar/2019 15:50:58] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-14 15:52:11,810:INFO:KVK Client initialized without credentials
+2019-03-14 15:52:11,918:INFO:127.0.0.1 - - [14/Mar/2019 15:52:11] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-14 15:52:30,597:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-14 15:52:32,981:INFO:KVK Client initialized without credentials
+2019-03-14 15:52:47,217:INFO:KVK Client initialized without credentials
+2019-03-14 15:53:00,488:INFO:KVK Client initialized without credentials
+2019-03-14 15:53:00,608:INFO:127.0.0.1 - - [14/Mar/2019 15:53:00] "GET /api/v1/reggy/companies/search?keywords=code&amp;coding HTTP/1.1" 200 -
+2019-03-14 16:11:45,089:INFO:KVK Client initialized without credentials
+2019-03-14 16:11:45,261:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-14 16:12:02,484:INFO:KVK Client initialized without credentials
+2019-03-14 16:14:08,032:INFO:KVK Client initialized without credentials
+2019-03-14 16:15:05,388:INFO:KVK Client initialized without credentials
+2019-03-15 00:21:21,756:INFO:KVK Client initialized without credentials
+2019-03-15 00:21:21,915:INFO:127.0.0.1 - - [15/Mar/2019 00:21:21] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:21:55,950:INFO:KVK Client initialized without credentials
+2019-03-15 00:21:56,084:INFO:127.0.0.1 - - [15/Mar/2019 00:21:56] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:22:16,951:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-15 00:22:17,028:INFO:KVK Client initialized without credentials
+2019-03-15 00:22:24,710:INFO:KVK Client initialized without credentials
+2019-03-15 00:22:24,845:INFO:127.0.0.1 - - [15/Mar/2019 00:22:24] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:22:26,369:INFO:KVK Client initialized without credentials
+2019-03-15 00:22:26,750:INFO:127.0.0.1 - - [15/Mar/2019 00:22:26] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:22:53,749:INFO:KVK Client initialized without credentials
+2019-03-15 00:22:53,872:INFO:127.0.0.1 - - [15/Mar/2019 00:22:53] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 200 -
+2019-03-15 00:22:56,407:INFO:KVK Client initialized without credentials
+2019-03-15 00:22:56,545:INFO:127.0.0.1 - - [15/Mar/2019 00:22:56] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:25:23,927:INFO:KVK Client initialized without credentials
+2019-03-15 00:25:24,053:INFO:127.0.0.1 - - [15/Mar/2019 00:25:24] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:26:57,218:INFO:KVK Client initialized without credentials
+2019-03-15 00:27:09,605:INFO:KVK Client initialized without credentials
+2019-03-15 00:27:09,724:INFO:127.0.0.1 - - [15/Mar/2019 00:27:09] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:31:06,300:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-15 00:31:06,333:INFO:KVK Client initialized without credentials
+2019-03-15 00:31:16,518:INFO:KVK Client initialized without credentials
+2019-03-15 00:31:16,647:INFO:127.0.0.1 - - [15/Mar/2019 00:31:16] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:31:18,321:INFO:KVK Client initialized without credentials
+2019-03-15 00:31:18,462:INFO:127.0.0.1 - - [15/Mar/2019 00:31:18] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:31:50,049:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-15 00:32:25,519:INFO:KVK Client initialized without credentials
+2019-03-15 00:32:36,583:INFO:KVK Client initialized without credentials
+2019-03-15 00:32:52,520:INFO:KVK Client initialized without credentials
+2019-03-15 00:33:43,237:INFO:KVK Client initialized without credentials
+2019-03-15 00:34:17,276:INFO:KVK Client initialized without credentials
+2019-03-15 00:36:18,581:INFO:KVK Client initialized without credentials
+2019-03-15 00:36:30,187:INFO:KVK Client initialized without credentials
+2019-03-15 00:37:42,299:INFO:KVK Client initialized without credentials
+2019-03-15 00:39:42,941:INFO:KVK Client initialized without credentials
+2019-03-15 00:42:37,203:INFO:KVK Client initialized without credentials
+2019-03-15 00:42:44,612:INFO:KVK Client initialized without credentials
+2019-03-15 00:43:11,702:INFO:KVK Client initialized without credentials
+2019-03-15 00:44:53,882:INFO:KVK Client initialized without credentials
+2019-03-15 00:44:54,110:INFO:127.0.0.1 - - [15/Mar/2019 00:44:54] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:45:17,214:INFO:KVK Client initialized without credentials
+2019-03-15 00:45:17,358:INFO:127.0.0.1 - - [15/Mar/2019 00:45:17] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:45:17,598:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-15 00:45:18,423:INFO:KVK Client initialized without credentials
+2019-03-15 00:45:18,524:INFO:127.0.0.1 - - [15/Mar/2019 00:45:18] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:45:33,497:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-15 00:45:34,000:INFO:KVK Client initialized without credentials
+2019-03-15 00:45:34,000:INFO:127.0.0.1 - - [15/Mar/2019 00:45:34] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:45:36,269:INFO:KVK Client initialized without credentials
+2019-03-15 00:45:36,270:INFO:127.0.0.1 - - [15/Mar/2019 00:45:36] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 00:46:02,884:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/textract/kvk.py', reloading
+2019-03-15 00:53:41,317:INFO:KVK Client initialized without credentials
+2019-03-15 00:54:44,878:INFO:KVK Client initialized without credentials
+2019-03-15 00:55:24,786:INFO:KVK Client initialized without credentials
+2019-03-15 00:56:44,892:INFO:KVK Client initialized without credentials
+2019-03-15 00:56:52,902:INFO:KVK Client initialized without credentials
