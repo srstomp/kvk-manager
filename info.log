@@ -456,3 +456,490 @@ Collection: companies
 2019-03-15 01:29:22,389:INFO:KVK Client initialized without credentials
 2019-03-15 01:29:22,390:INFO:127.0.0.1 - - [15/Mar/2019 01:29:22] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 200 -
 2019-03-15 01:29:34,328:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 09:35:25,203:INFO:KVK Client initialized without credentials
+2019-03-15 09:36:52,929:INFO:KVK Client initialized without credentials
+2019-03-15 09:37:05,397:INFO:KVK Client initialized without credentials
+2019-03-15 09:38:36,426:INFO:KVK Client initialized without credentials
+2019-03-15 09:38:50,076:INFO:KVK Client initialized without credentials
+2019-03-15 09:39:08,186:INFO:KVK Client initialized without credentials
+2019-03-15 09:39:09,344:INFO:KVK Client initialized without credentials
+2019-03-15 09:39:09,490:INFO:127.0.0.1 - - [15/Mar/2019 09:39:09] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-15 09:54:21,154:INFO:KVK Client initialized without credentials
+2019-03-15 09:54:21,309:INFO:127.0.0.1 - - [15/Mar/2019 09:54:21] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-15 10:25:26,901:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 10:25:27,480:INFO:KVK Client initialized without credentials
+2019-03-15 10:25:27,606:INFO:127.0.0.1 - - [15/Mar/2019 10:25:27] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:25:27,626:INFO:127.0.0.1 - - [15/Mar/2019 10:25:27] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:25:27,626:INFO:127.0.0.1 - - [15/Mar/2019 10:25:27] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:25:27,626:INFO:127.0.0.1 - - [15/Mar/2019 10:25:27] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:25:27,735:INFO:127.0.0.1 - - [15/Mar/2019 10:25:27] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:25:27,769:INFO:127.0.0.1 - - [15/Mar/2019 10:25:27] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:25:28,703:INFO:KVK Client initialized without credentials
+2019-03-15 10:25:28,814:INFO:127.0.0.1 - - [15/Mar/2019 10:25:28] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:25:28,832:INFO:127.0.0.1 - - [15/Mar/2019 10:25:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:25:28,833:INFO:127.0.0.1 - - [15/Mar/2019 10:25:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:25:28,833:INFO:127.0.0.1 - - [15/Mar/2019 10:25:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:25:28,900:INFO:127.0.0.1 - - [15/Mar/2019 10:25:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:25:28,928:INFO:127.0.0.1 - - [15/Mar/2019 10:25:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:25:46,983:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 10:26:01,268:INFO:KVK Client initialized without credentials
+2019-03-15 10:26:01,279:INFO:127.0.0.1 - - [15/Mar/2019 10:26:01] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:26:01,298:INFO:127.0.0.1 - - [15/Mar/2019 10:26:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:26:01,302:INFO:127.0.0.1 - - [15/Mar/2019 10:26:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:26:01,303:INFO:127.0.0.1 - - [15/Mar/2019 10:26:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:26:01,407:INFO:127.0.0.1 - - [15/Mar/2019 10:26:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:26:01,442:INFO:127.0.0.1 - - [15/Mar/2019 10:26:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:26:21,440:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:26:21,960:INFO:KVK Client initialized without credentials
+2019-03-15 10:26:21,977:INFO:127.0.0.1 - - [15/Mar/2019 10:26:21] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:26:22,000:INFO:127.0.0.1 - - [15/Mar/2019 10:26:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:26:22,002:INFO:127.0.0.1 - - [15/Mar/2019 10:26:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:26:22,003:INFO:127.0.0.1 - - [15/Mar/2019 10:26:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:26:22,120:INFO:127.0.0.1 - - [15/Mar/2019 10:26:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:26:22,149:INFO:127.0.0.1 - - [15/Mar/2019 10:26:22] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:26:31,222:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 10:26:31,843:INFO:KVK Client initialized without credentials
+2019-03-15 10:26:31,844:INFO:127.0.0.1 - - [15/Mar/2019 10:26:31] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-15 10:26:50,207:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:26:50,710:INFO:KVK Client initialized without credentials
+2019-03-15 10:26:50,720:INFO:127.0.0.1 - - [15/Mar/2019 10:26:50] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:26:50,741:INFO:127.0.0.1 - - [15/Mar/2019 10:26:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:26:50,741:INFO:127.0.0.1 - - [15/Mar/2019 10:26:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:26:50,742:INFO:127.0.0.1 - - [15/Mar/2019 10:26:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:26:50,832:INFO:127.0.0.1 - - [15/Mar/2019 10:26:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:26:50,862:INFO:127.0.0.1 - - [15/Mar/2019 10:26:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:26:51,963:INFO:KVK Client initialized without credentials
+2019-03-15 10:26:51,973:INFO:127.0.0.1 - - [15/Mar/2019 10:26:51] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:26:51,995:INFO:127.0.0.1 - - [15/Mar/2019 10:26:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:26:51,999:INFO:127.0.0.1 - - [15/Mar/2019 10:26:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:26:51,999:INFO:127.0.0.1 - - [15/Mar/2019 10:26:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:26:52,086:INFO:127.0.0.1 - - [15/Mar/2019 10:26:52] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:26:52,116:INFO:127.0.0.1 - - [15/Mar/2019 10:26:52] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:27:01,009:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:27:01,482:INFO:KVK Client initialized without credentials
+2019-03-15 10:27:01,482:INFO:127.0.0.1 - - [15/Mar/2019 10:27:01] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-15 10:27:39,503:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:27:48,875:INFO:KVK Client initialized without credentials
+2019-03-15 10:27:48,886:INFO:127.0.0.1 - - [15/Mar/2019 10:27:48] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:27:48,913:INFO:127.0.0.1 - - [15/Mar/2019 10:27:48] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:27:48,914:INFO:127.0.0.1 - - [15/Mar/2019 10:27:48] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:27:48,914:INFO:127.0.0.1 - - [15/Mar/2019 10:27:48] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:27:49,024:INFO:127.0.0.1 - - [15/Mar/2019 10:27:49] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:27:49,057:INFO:127.0.0.1 - - [15/Mar/2019 10:27:49] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:28:48,285:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:28:56,078:INFO:KVK Client initialized without credentials
+2019-03-15 10:28:56,093:INFO:127.0.0.1 - - [15/Mar/2019 10:28:56] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:28:56,116:INFO:127.0.0.1 - - [15/Mar/2019 10:28:56] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:28:56,118:INFO:127.0.0.1 - - [15/Mar/2019 10:28:56] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:28:56,119:INFO:127.0.0.1 - - [15/Mar/2019 10:28:56] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:28:56,234:INFO:127.0.0.1 - - [15/Mar/2019 10:28:56] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:28:56,269:INFO:127.0.0.1 - - [15/Mar/2019 10:28:56] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:11,343:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:29:12,844:INFO:KVK Client initialized without credentials
+2019-03-15 10:29:12,862:INFO:127.0.0.1 - - [15/Mar/2019 10:29:12] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:29:12,890:INFO:127.0.0.1 - - [15/Mar/2019 10:29:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:29:12,894:INFO:127.0.0.1 - - [15/Mar/2019 10:29:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:29:12,895:INFO:127.0.0.1 - - [15/Mar/2019 10:29:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:29:13,016:INFO:127.0.0.1 - - [15/Mar/2019 10:29:13] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:13,050:INFO:127.0.0.1 - - [15/Mar/2019 10:29:13] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:13,972:INFO:KVK Client initialized without credentials
+2019-03-15 10:29:13,983:INFO:127.0.0.1 - - [15/Mar/2019 10:29:13] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:29:14,005:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:29:14,009:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:29:14,010:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:29:14,091:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:14,121:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:14,597:INFO:KVK Client initialized without credentials
+2019-03-15 10:29:14,608:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:29:14,629:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:29:14,633:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:29:14,634:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:29:14,704:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:14,731:INFO:127.0.0.1 - - [15/Mar/2019 10:29:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:21,441:INFO:KVK Client initialized without credentials
+2019-03-15 10:29:36,512:INFO:KVK Client initialized without credentials
+2019-03-15 10:29:36,652:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:29:40,561:INFO:KVK Client initialized without credentials
+2019-03-15 10:29:40,572:INFO:127.0.0.1 - - [15/Mar/2019 10:29:40] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:29:40,596:INFO:127.0.0.1 - - [15/Mar/2019 10:29:40] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:29:40,598:INFO:127.0.0.1 - - [15/Mar/2019 10:29:40] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:29:40,599:INFO:127.0.0.1 - - [15/Mar/2019 10:29:40] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:29:40,717:INFO:127.0.0.1 - - [15/Mar/2019 10:29:40] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:40,745:INFO:127.0.0.1 - - [15/Mar/2019 10:29:40] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:51,477:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 10:29:51,966:INFO:KVK Client initialized without credentials
+2019-03-15 10:29:51,977:INFO:127.0.0.1 - - [15/Mar/2019 10:29:51] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:29:51,996:INFO:127.0.0.1 - - [15/Mar/2019 10:29:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:29:52,000:INFO:127.0.0.1 - - [15/Mar/2019 10:29:51] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:29:52,001:INFO:127.0.0.1 - - [15/Mar/2019 10:29:52] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:29:52,108:INFO:127.0.0.1 - - [15/Mar/2019 10:29:52] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:52,135:INFO:127.0.0.1 - - [15/Mar/2019 10:29:52] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:52,889:INFO:KVK Client initialized without credentials
+2019-03-15 10:29:52,900:INFO:127.0.0.1 - - [15/Mar/2019 10:29:52] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:29:52,921:INFO:127.0.0.1 - - [15/Mar/2019 10:29:52] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:29:52,923:INFO:127.0.0.1 - - [15/Mar/2019 10:29:52] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:29:52,924:INFO:127.0.0.1 - - [15/Mar/2019 10:29:52] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:29:53,013:INFO:127.0.0.1 - - [15/Mar/2019 10:29:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:53,037:INFO:127.0.0.1 - - [15/Mar/2019 10:29:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:29:56,116:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 10:30:10,920:INFO:KVK Client initialized without credentials
+2019-03-15 10:30:10,928:INFO:127.0.0.1 - - [15/Mar/2019 10:30:10] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 500 -
+2019-03-15 10:30:10,949:INFO:127.0.0.1 - - [15/Mar/2019 10:30:10] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:30:10,949:INFO:127.0.0.1 - - [15/Mar/2019 10:30:10] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:30:10,949:INFO:127.0.0.1 - - [15/Mar/2019 10:30:10] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:30:11,050:INFO:127.0.0.1 - - [15/Mar/2019 10:30:11] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:30:35,000:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:30:38,356:INFO:KVK Client initialized without credentials
+2019-03-15 10:30:38,368:INFO:127.0.0.1 - - [15/Mar/2019 10:30:38] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 500 -
+2019-03-15 10:30:38,388:INFO:127.0.0.1 - - [15/Mar/2019 10:30:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:30:38,394:INFO:127.0.0.1 - - [15/Mar/2019 10:30:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:30:38,395:INFO:127.0.0.1 - - [15/Mar/2019 10:30:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:30:38,453:INFO:127.0.0.1 - - [15/Mar/2019 10:30:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:30:38,509:INFO:127.0.0.1 - - [15/Mar/2019 10:30:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:30:41,238:INFO:KVK Client initialized without credentials
+2019-03-15 10:30:53,979:INFO:KVK Client initialized without credentials
+2019-03-15 10:30:53,989:INFO:127.0.0.1 - - [15/Mar/2019 10:30:53] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 500 -
+2019-03-15 10:30:54,010:INFO:127.0.0.1 - - [15/Mar/2019 10:30:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:30:54,013:INFO:127.0.0.1 - - [15/Mar/2019 10:30:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:30:54,014:INFO:127.0.0.1 - - [15/Mar/2019 10:30:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:30:54,095:INFO:127.0.0.1 - - [15/Mar/2019 10:30:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:30:54,122:INFO:127.0.0.1 - - [15/Mar/2019 10:30:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:31:07,739:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 10:31:08,313:INFO:KVK Client initialized without credentials
+2019-03-15 10:31:08,314:INFO:127.0.0.1 - - [15/Mar/2019 10:31:08] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 200 -
+2019-03-15 10:31:17,182:INFO:KVK Client initialized without credentials
+2019-03-15 10:31:17,182:INFO:127.0.0.1 - - [15/Mar/2019 10:31:17] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:31:27,842:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:31:28,374:INFO:KVK Client initialized without credentials
+2019-03-15 10:31:28,384:INFO:127.0.0.1 - - [15/Mar/2019 10:31:28] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:31:28,403:INFO:127.0.0.1 - - [15/Mar/2019 10:31:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:31:28,406:INFO:127.0.0.1 - - [15/Mar/2019 10:31:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:31:28,408:INFO:127.0.0.1 - - [15/Mar/2019 10:31:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:31:28,502:INFO:127.0.0.1 - - [15/Mar/2019 10:31:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:31:28,536:INFO:127.0.0.1 - - [15/Mar/2019 10:31:28] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:31:38,672:INFO:KVK Client initialized without credentials
+2019-03-15 10:31:38,683:INFO:127.0.0.1 - - [15/Mar/2019 10:31:38] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:31:38,686:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:31:40,615:INFO:KVK Client initialized without credentials
+2019-03-15 10:31:40,749:INFO:127.0.0.1 - - [15/Mar/2019 10:31:40] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:31:40,768:INFO:127.0.0.1 - - [15/Mar/2019 10:31:40] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:31:40,771:INFO:127.0.0.1 - - [15/Mar/2019 10:31:40] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:31:40,771:INFO:127.0.0.1 - - [15/Mar/2019 10:31:40] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:31:40,847:INFO:127.0.0.1 - - [15/Mar/2019 10:31:40] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:32:07,969:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:32:08,581:INFO:KVK Client initialized without credentials
+2019-03-15 10:32:08,582:INFO:127.0.0.1 - - [15/Mar/2019 10:32:08] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:32:15,789:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:32:19,201:INFO:KVK Client initialized without credentials
+2019-03-15 10:32:19,343:INFO:127.0.0.1 - - [15/Mar/2019 10:32:19] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:32:19,362:INFO:127.0.0.1 - - [15/Mar/2019 10:32:19] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:32:19,363:INFO:127.0.0.1 - - [15/Mar/2019 10:32:19] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:32:19,363:INFO:127.0.0.1 - - [15/Mar/2019 10:32:19] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:32:19,454:INFO:127.0.0.1 - - [15/Mar/2019 10:32:19] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:32:19,488:INFO:127.0.0.1 - - [15/Mar/2019 10:32:19] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:32:35,798:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:32:36,405:INFO:KVK Client initialized without credentials
+2019-03-15 10:32:36,406:INFO:127.0.0.1 - - [15/Mar/2019 10:32:36] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:32:49,783:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:32:50,300:INFO:KVK Client initialized without credentials
+2019-03-15 10:32:50,432:INFO:127.0.0.1 - - [15/Mar/2019 10:32:50] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:32:50,451:INFO:127.0.0.1 - - [15/Mar/2019 10:32:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:32:50,451:INFO:127.0.0.1 - - [15/Mar/2019 10:32:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:32:50,452:INFO:127.0.0.1 - - [15/Mar/2019 10:32:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:32:50,539:INFO:127.0.0.1 - - [15/Mar/2019 10:32:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:32:50,572:INFO:127.0.0.1 - - [15/Mar/2019 10:32:50] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:32:58,561:INFO:KVK Client initialized without credentials
+2019-03-15 10:32:58,715:INFO:127.0.0.1 - - [15/Mar/2019 10:32:58] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 500 -
+2019-03-15 10:32:58,732:INFO:127.0.0.1 - - [15/Mar/2019 10:32:58] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:32:58,733:INFO:127.0.0.1 - - [15/Mar/2019 10:32:58] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:32:58,735:INFO:127.0.0.1 - - [15/Mar/2019 10:32:58] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:32:58,811:INFO:127.0.0.1 - - [15/Mar/2019 10:32:58] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:33:10,808:INFO:KVK Client initialized without credentials
+2019-03-15 10:33:10,874:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:33:23,896:INFO:KVK Client initialized without credentials
+2019-03-15 10:33:34,633:INFO:KVK Client initialized without credentials
+2019-03-15 10:33:34,771:INFO:127.0.0.1 - - [15/Mar/2019 10:33:34] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:33:34,793:INFO:127.0.0.1 - - [15/Mar/2019 10:33:34] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:33:34,793:INFO:127.0.0.1 - - [15/Mar/2019 10:33:34] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:33:34,793:INFO:127.0.0.1 - - [15/Mar/2019 10:33:34] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:33:34,856:INFO:127.0.0.1 - - [15/Mar/2019 10:33:34] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:12,405:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:34:13,033:INFO:KVK Client initialized without credentials
+2019-03-15 10:34:13,207:INFO:127.0.0.1 - - [15/Mar/2019 10:34:13] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:34:13,226:INFO:127.0.0.1 - - [15/Mar/2019 10:34:13] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:34:13,227:INFO:127.0.0.1 - - [15/Mar/2019 10:34:13] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:34:13,229:INFO:127.0.0.1 - - [15/Mar/2019 10:34:13] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:34:13,309:INFO:127.0.0.1 - - [15/Mar/2019 10:34:13] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:13,368:INFO:127.0.0.1 - - [15/Mar/2019 10:34:13] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:14,060:INFO:KVK Client initialized without credentials
+2019-03-15 10:34:14,221:INFO:127.0.0.1 - - [15/Mar/2019 10:34:14] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:34:14,247:INFO:127.0.0.1 - - [15/Mar/2019 10:34:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:34:14,248:INFO:127.0.0.1 - - [15/Mar/2019 10:34:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:34:14,248:INFO:127.0.0.1 - - [15/Mar/2019 10:34:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:34:14,320:INFO:127.0.0.1 - - [15/Mar/2019 10:34:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:14,352:INFO:127.0.0.1 - - [15/Mar/2019 10:34:14] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:30,970:INFO:KVK Client initialized without credentials
+2019-03-15 10:34:31,122:INFO:127.0.0.1 - - [15/Mar/2019 10:34:31] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:34:31,142:INFO:127.0.0.1 - - [15/Mar/2019 10:34:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:34:31,144:INFO:127.0.0.1 - - [15/Mar/2019 10:34:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:34:31,145:INFO:127.0.0.1 - - [15/Mar/2019 10:34:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:34:31,228:INFO:127.0.0.1 - - [15/Mar/2019 10:34:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:31,256:INFO:127.0.0.1 - - [15/Mar/2019 10:34:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:31,463:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:34:33,468:INFO:KVK Client initialized without credentials
+2019-03-15 10:34:36,246:INFO:KVK Client initialized without credentials
+2019-03-15 10:34:36,890:INFO:127.0.0.1 - - [15/Mar/2019 10:34:36] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:34:36,905:INFO:127.0.0.1 - - [15/Mar/2019 10:34:36] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:34:36,906:INFO:127.0.0.1 - - [15/Mar/2019 10:34:36] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:34:36,907:INFO:127.0.0.1 - - [15/Mar/2019 10:34:36] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:34:36,979:INFO:127.0.0.1 - - [15/Mar/2019 10:34:36] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:37,006:INFO:127.0.0.1 - - [15/Mar/2019 10:34:37] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:52,419:INFO:KVK Client initialized without credentials
+2019-03-15 10:34:52,441:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:34:53,016:INFO:KVK Client initialized without credentials
+2019-03-15 10:34:53,665:INFO:127.0.0.1 - - [15/Mar/2019 10:34:53] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:34:53,714:INFO:127.0.0.1 - - [15/Mar/2019 10:34:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:34:53,714:INFO:127.0.0.1 - - [15/Mar/2019 10:34:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:34:53,715:INFO:127.0.0.1 - - [15/Mar/2019 10:34:53] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:34:54,017:INFO:127.0.0.1 - - [15/Mar/2019 10:34:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:34:54,047:INFO:127.0.0.1 - - [15/Mar/2019 10:34:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:35:05,363:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:35:05,926:INFO:KVK Client initialized without credentials
+2019-03-15 10:35:06,066:INFO:127.0.0.1 - - [15/Mar/2019 10:35:06] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 500 -
+2019-03-15 10:35:06,086:INFO:127.0.0.1 - - [15/Mar/2019 10:35:06] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:35:06,087:INFO:127.0.0.1 - - [15/Mar/2019 10:35:06] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:35:06,088:INFO:127.0.0.1 - - [15/Mar/2019 10:35:06] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:35:06,158:INFO:127.0.0.1 - - [15/Mar/2019 10:35:06] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:35:06,189:INFO:127.0.0.1 - - [15/Mar/2019 10:35:06] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:35:18,516:INFO:KVK Client initialized without credentials
+2019-03-15 10:35:18,617:INFO:127.0.0.1 - - [15/Mar/2019 10:35:18] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-15 10:35:18,637:INFO:127.0.0.1 - - [15/Mar/2019 10:35:18] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:35:18,638:INFO:127.0.0.1 - - [15/Mar/2019 10:35:18] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:35:18,639:INFO:127.0.0.1 - - [15/Mar/2019 10:35:18] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:35:18,747:INFO:127.0.0.1 - - [15/Mar/2019 10:35:18] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:00,442:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:36:01,061:INFO:KVK Client initialized without credentials
+2019-03-15 10:36:01,172:INFO:127.0.0.1 - - [15/Mar/2019 10:36:01] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-15 10:36:01,192:INFO:127.0.0.1 - - [15/Mar/2019 10:36:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:36:01,195:INFO:127.0.0.1 - - [15/Mar/2019 10:36:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:36:01,195:INFO:127.0.0.1 - - [15/Mar/2019 10:36:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:36:01,286:INFO:127.0.0.1 - - [15/Mar/2019 10:36:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:01,338:INFO:127.0.0.1 - - [15/Mar/2019 10:36:01] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:02,135:INFO:KVK Client initialized without credentials
+2019-03-15 10:36:02,262:INFO:127.0.0.1 - - [15/Mar/2019 10:36:02] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-15 10:36:02,284:INFO:127.0.0.1 - - [15/Mar/2019 10:36:02] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:36:02,284:INFO:127.0.0.1 - - [15/Mar/2019 10:36:02] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:36:02,285:INFO:127.0.0.1 - - [15/Mar/2019 10:36:02] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:36:02,360:INFO:127.0.0.1 - - [15/Mar/2019 10:36:02] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:02,390:INFO:127.0.0.1 - - [15/Mar/2019 10:36:02] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:11,345:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:36:12,143:INFO:KVK Client initialized without credentials
+2019-03-15 10:36:12,269:INFO:127.0.0.1 - - [15/Mar/2019 10:36:12] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-15 10:36:12,290:INFO:127.0.0.1 - - [15/Mar/2019 10:36:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:36:12,293:INFO:127.0.0.1 - - [15/Mar/2019 10:36:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:36:12,294:INFO:127.0.0.1 - - [15/Mar/2019 10:36:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:36:12,394:INFO:127.0.0.1 - - [15/Mar/2019 10:36:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:12,417:INFO:127.0.0.1 - - [15/Mar/2019 10:36:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:37,653:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:36:38,240:INFO:KVK Client initialized without credentials
+2019-03-15 10:36:38,357:INFO:127.0.0.1 - - [15/Mar/2019 10:36:38] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-15 10:36:38,385:INFO:127.0.0.1 - - [15/Mar/2019 10:36:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:36:38,386:INFO:127.0.0.1 - - [15/Mar/2019 10:36:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:36:38,387:INFO:127.0.0.1 - - [15/Mar/2019 10:36:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:36:38,501:INFO:127.0.0.1 - - [15/Mar/2019 10:36:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:38,530:INFO:127.0.0.1 - - [15/Mar/2019 10:36:38] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:39,376:INFO:KVK Client initialized without credentials
+2019-03-15 10:36:39,483:INFO:127.0.0.1 - - [15/Mar/2019 10:36:39] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-15 10:36:39,502:INFO:127.0.0.1 - - [15/Mar/2019 10:36:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:36:39,502:INFO:127.0.0.1 - - [15/Mar/2019 10:36:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:36:39,502:INFO:127.0.0.1 - - [15/Mar/2019 10:36:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:36:39,584:INFO:127.0.0.1 - - [15/Mar/2019 10:36:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:39,616:INFO:127.0.0.1 - - [15/Mar/2019 10:36:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:54,360:INFO:KVK Client initialized without credentials
+2019-03-15 10:36:54,460:INFO:127.0.0.1 - - [15/Mar/2019 10:36:54] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-15 10:36:54,483:INFO:127.0.0.1 - - [15/Mar/2019 10:36:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:36:54,486:INFO:127.0.0.1 - - [15/Mar/2019 10:36:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:36:54,487:INFO:127.0.0.1 - - [15/Mar/2019 10:36:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:36:54,607:INFO:127.0.0.1 - - [15/Mar/2019 10:36:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:54,640:INFO:127.0.0.1 - - [15/Mar/2019 10:36:54] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:54,674:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:36:55,405:INFO:KVK Client initialized without credentials
+2019-03-15 10:36:55,539:INFO:127.0.0.1 - - [15/Mar/2019 10:36:55] "GET /api/v1/reggy/companies/search?keywords=codeandcoding HTTP/1.1" 500 -
+2019-03-15 10:36:55,559:INFO:127.0.0.1 - - [15/Mar/2019 10:36:55] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:36:55,562:INFO:127.0.0.1 - - [15/Mar/2019 10:36:55] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:36:55,562:INFO:127.0.0.1 - - [15/Mar/2019 10:36:55] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:36:55,637:INFO:127.0.0.1 - - [15/Mar/2019 10:36:55] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:55,668:INFO:127.0.0.1 - - [15/Mar/2019 10:36:55] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:36:58,920:INFO:KVK Client initialized without credentials
+2019-03-15 10:36:59,069:INFO:127.0.0.1 - - [15/Mar/2019 10:36:59] "GET /api/v1/reggy/companies/search?keywords=n5 HTTP/1.1" 500 -
+2019-03-15 10:36:59,085:INFO:127.0.0.1 - - [15/Mar/2019 10:36:59] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:36:59,088:INFO:127.0.0.1 - - [15/Mar/2019 10:36:59] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:36:59,088:INFO:127.0.0.1 - - [15/Mar/2019 10:36:59] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:36:59,158:INFO:127.0.0.1 - - [15/Mar/2019 10:36:59] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:37:11,568:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:37:12,136:INFO:KVK Client initialized without credentials
+2019-03-15 10:37:12,297:INFO:127.0.0.1 - - [15/Mar/2019 10:37:12] "GET /api/v1/reggy/companies/search?keywords=n5 HTTP/1.1" 500 -
+2019-03-15 10:37:12,315:INFO:127.0.0.1 - - [15/Mar/2019 10:37:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:37:12,316:INFO:127.0.0.1 - - [15/Mar/2019 10:37:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:37:12,317:INFO:127.0.0.1 - - [15/Mar/2019 10:37:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:37:12,404:INFO:127.0.0.1 - - [15/Mar/2019 10:37:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:37:12,457:INFO:127.0.0.1 - - [15/Mar/2019 10:37:12] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:37:17,721:INFO:KVK Client initialized without credentials
+2019-03-15 10:37:17,864:INFO:127.0.0.1 - - [15/Mar/2019 10:37:17] "GET /api/v1/reggy/companies/search?keywords=n5 HTTP/1.1" 500 -
+2019-03-15 10:37:17,885:INFO:127.0.0.1 - - [15/Mar/2019 10:37:17] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:37:17,888:INFO:127.0.0.1 - - [15/Mar/2019 10:37:17] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:37:17,889:INFO:127.0.0.1 - - [15/Mar/2019 10:37:17] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:37:17,972:INFO:127.0.0.1 - - [15/Mar/2019 10:37:17] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:37:17,999:INFO:127.0.0.1 - - [15/Mar/2019 10:37:17] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:37:30,646:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:37:31,222:INFO:KVK Client initialized without credentials
+2019-03-15 10:37:31,751:INFO:127.0.0.1 - - [15/Mar/2019 10:37:31] "GET /api/v1/reggy/companies/search?keywords=n5 HTTP/1.1" 500 -
+2019-03-15 10:37:31,767:INFO:127.0.0.1 - - [15/Mar/2019 10:37:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:37:31,767:INFO:127.0.0.1 - - [15/Mar/2019 10:37:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:37:31,767:INFO:127.0.0.1 - - [15/Mar/2019 10:37:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:37:31,864:INFO:127.0.0.1 - - [15/Mar/2019 10:37:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:37:31,889:INFO:127.0.0.1 - - [15/Mar/2019 10:37:31] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:37:42,173:INFO:KVK Client initialized without credentials
+2019-03-15 10:37:42,312:INFO:127.0.0.1 - - [15/Mar/2019 10:37:42] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 500 -
+2019-03-15 10:37:42,328:INFO:127.0.0.1 - - [15/Mar/2019 10:37:42] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:37:42,328:INFO:127.0.0.1 - - [15/Mar/2019 10:37:42] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:37:42,331:INFO:127.0.0.1 - - [15/Mar/2019 10:37:42] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:37:42,441:INFO:127.0.0.1 - - [15/Mar/2019 10:37:42] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:37:50,618:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:03,790:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:03,936:INFO:127.0.0.1 - - [15/Mar/2019 10:38:03] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 500 -
+2019-03-15 10:38:03,954:INFO:127.0.0.1 - - [15/Mar/2019 10:38:03] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:38:03,960:INFO:127.0.0.1 - - [15/Mar/2019 10:38:03] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:38:03,961:INFO:127.0.0.1 - - [15/Mar/2019 10:38:03] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:38:04,057:INFO:127.0.0.1 - - [15/Mar/2019 10:38:04] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:38:04,092:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 10:38:06,196:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:06,353:INFO:127.0.0.1 - - [15/Mar/2019 10:38:06] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 200 -
+2019-03-15 10:38:08,219:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:08,349:INFO:127.0.0.1 - - [15/Mar/2019 10:38:08] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 200 -
+2019-03-15 10:38:13,013:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:13,144:INFO:127.0.0.1 - - [15/Mar/2019 10:38:13] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 200 -
+2019-03-15 10:38:17,125:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:17,249:INFO:127.0.0.1 - - [15/Mar/2019 10:38:17] "GET /api/v1/reggy/companies/search?keywords=n5 HTTP/1.1" 200 -
+2019-03-15 10:38:22,420:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:22,564:INFO:127.0.0.1 - - [15/Mar/2019 10:38:22] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:38:28,743:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:29,138:INFO:127.0.0.1 - - [15/Mar/2019 10:38:29] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 200 -
+2019-03-15 10:38:35,152:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:35,291:INFO:127.0.0.1 - - [15/Mar/2019 10:38:35] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:38:41,178:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:41,322:INFO:127.0.0.1 - - [15/Mar/2019 10:38:41] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 200 -
+2019-03-15 10:38:44,901:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:45,044:INFO:127.0.0.1 - - [15/Mar/2019 10:38:45] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 200 -
+2019-03-15 10:38:50,586:INFO:KVK Client initialized without credentials
+2019-03-15 10:38:50,702:INFO:127.0.0.1 - - [15/Mar/2019 10:38:50] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 200 -
+2019-03-15 10:41:06,504:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:41:12,630:INFO:KVK Client initialized without credentials
+2019-03-15 10:41:12,790:INFO:127.0.0.1 - - [15/Mar/2019 10:41:12] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:42:31,281:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:42:31,760:INFO:KVK Client initialized without credentials
+2019-03-15 10:42:31,761:INFO:127.0.0.1 - - [15/Mar/2019 10:42:31] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:42:38,962:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:42:39,547:INFO:KVK Client initialized without credentials
+2019-03-15 10:42:39,548:INFO:127.0.0.1 - - [15/Mar/2019 10:42:39] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:42:44,603:INFO:KVK Client initialized without credentials
+2019-03-15 10:42:44,604:INFO:127.0.0.1 - - [15/Mar/2019 10:42:44] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:42:44,698:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:42:46,210:INFO:KVK Client initialized without credentials
+2019-03-15 10:42:46,334:INFO:127.0.0.1 - - [15/Mar/2019 10:42:46] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:42:47,112:INFO:KVK Client initialized without credentials
+2019-03-15 10:42:47,207:INFO:127.0.0.1 - - [15/Mar/2019 10:42:47] "GET /api/v1/reggy/companies/search?keywords=code%26coding HTTP/1.1" 200 -
+2019-03-15 10:42:53,236:INFO:KVK Client initialized without credentials
+2019-03-15 10:42:53,366:INFO:127.0.0.1 - - [15/Mar/2019 10:42:53] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-15 10:43:07,183:INFO:KVK Client initialized without credentials
+2019-03-15 10:43:35,550:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:43:36,244:INFO:KVK Client initialized without credentials
+2019-03-15 10:43:36,256:INFO:127.0.0.1 - - [15/Mar/2019 10:43:36] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:43:36,275:INFO:127.0.0.1 - - [15/Mar/2019 10:43:36] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:43:36,278:INFO:127.0.0.1 - - [15/Mar/2019 10:43:36] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:43:36,278:INFO:127.0.0.1 - - [15/Mar/2019 10:43:36] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:43:36,372:INFO:127.0.0.1 - - [15/Mar/2019 10:43:36] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:44:09,172:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 10:44:11,392:INFO:KVK Client initialized without credentials
+2019-03-15 10:44:11,393:INFO:127.0.0.1 - - [15/Mar/2019 10:44:11] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 200 -
+2019-03-15 10:44:30,217:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 10:44:30,728:INFO:KVK Client initialized without credentials
+2019-03-15 10:44:30,743:INFO:127.0.0.1 - - [15/Mar/2019 10:44:30] "GET /api/v1/reggy/companies/search?keywords=code&coding HTTP/1.1" 500 -
+2019-03-15 10:44:30,764:INFO:127.0.0.1 - - [15/Mar/2019 10:44:30] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 10:44:30,765:INFO:127.0.0.1 - - [15/Mar/2019 10:44:30] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 10:44:30,766:INFO:127.0.0.1 - - [15/Mar/2019 10:44:30] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 10:44:30,884:INFO:127.0.0.1 - - [15/Mar/2019 10:44:30] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:44:30,922:INFO:127.0.0.1 - - [15/Mar/2019 10:44:30] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 10:46:36,025:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 10:56:06,402:INFO:KVK Client initialized without credentials
+2019-03-15 10:56:14,596:INFO:KVK Client initialized without credentials
+2019-03-15 10:57:06,190:INFO:KVK Client initialized without credentials
+2019-03-15 10:57:16,357:INFO:KVK Client initialized without credentials
+2019-03-15 10:57:27,581:INFO:KVK Client initialized without credentials
+2019-03-15 10:57:42,883:INFO:KVK Client initialized without credentials
+2019-03-15 10:58:00,556:INFO:KVK Client initialized without credentials
+2019-03-15 10:59:27,136:INFO:KVK Client initialized without credentials
+2019-03-15 11:35:31,125:INFO:KVK Client initialized without credentials
+2019-03-15 11:35:31,126:INFO:127.0.0.1 - - [15/Mar/2019 11:35:31] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 200 -
+2019-03-15 11:35:45,522:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 11:35:49,714:INFO:KVK Client initialized without credentials
+2019-03-15 11:35:49,891:INFO:127.0.0.1 - - [15/Mar/2019 11:35:49] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 200 -
+2019-03-15 11:35:54,975:INFO:KVK Client initialized without credentials
+2019-03-15 11:35:55,113:INFO:127.0.0.1 - - [15/Mar/2019 11:35:55] "GET /api/v1/reggy/companies/search?keywords=code%20&%20coding HTTP/1.1" 200 -
+2019-03-15 11:35:57,591:INFO:KVK Client initialized without credentials
+2019-03-15 11:35:57,737:INFO:127.0.0.1 - - [15/Mar/2019 11:35:57] "GET /api/v1/reggy/companies/search?keywords=code%20&%20coding HTTP/1.1" 200 -
+2019-03-15 11:36:16,796:INFO:KVK Client initialized without credentials
+2019-03-15 11:36:16,970:INFO:127.0.0.1 - - [15/Mar/2019 11:36:16] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 200 -
+2019-03-15 11:36:26,471:INFO:KVK Client initialized without credentials
+2019-03-15 11:36:26,621:INFO:127.0.0.1 - - [15/Mar/2019 11:36:26] "GET /api/v1/reggy/companies/search?keywords=Code%20&%20Coding%20B.V. HTTP/1.1" 200 -
+2019-03-15 11:36:52,428:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 11:36:54,264:INFO:KVK Client initialized without credentials
+2019-03-15 11:36:54,405:INFO:127.0.0.1 - - [15/Mar/2019 11:36:54] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 200 -
+2019-03-15 11:38:09,971:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 11:39:04,565:INFO:KVK Client initialized without credentials
+2019-03-15 11:39:04,575:INFO:127.0.0.1 - - [15/Mar/2019 11:39:04] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 500 -
+2019-03-15 11:39:04,599:INFO:127.0.0.1 - - [15/Mar/2019 11:39:04] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 11:39:04,600:INFO:127.0.0.1 - - [15/Mar/2019 11:39:04] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 11:39:04,600:INFO:127.0.0.1 - - [15/Mar/2019 11:39:04] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 11:39:04,718:INFO:127.0.0.1 - - [15/Mar/2019 11:39:04] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 11:39:04,748:INFO:127.0.0.1 - - [15/Mar/2019 11:39:04] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 11:39:05,741:INFO:KVK Client initialized without credentials
+2019-03-15 11:39:05,753:INFO:127.0.0.1 - - [15/Mar/2019 11:39:05] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 500 -
+2019-03-15 11:39:05,785:INFO:127.0.0.1 - - [15/Mar/2019 11:39:05] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 11:39:05,788:INFO:127.0.0.1 - - [15/Mar/2019 11:39:05] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 11:39:05,790:INFO:127.0.0.1 - - [15/Mar/2019 11:39:05] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 11:39:05,888:INFO:127.0.0.1 - - [15/Mar/2019 11:39:05] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 11:39:05,919:INFO:127.0.0.1 - - [15/Mar/2019 11:39:05] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 11:39:39,295:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 11:39:39,839:INFO:KVK Client initialized without credentials
+2019-03-15 11:39:39,849:INFO:127.0.0.1 - - [15/Mar/2019 11:39:39] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 500 -
+2019-03-15 11:39:39,868:INFO:127.0.0.1 - - [15/Mar/2019 11:39:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 11:39:39,871:INFO:127.0.0.1 - - [15/Mar/2019 11:39:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 11:39:39,871:INFO:127.0.0.1 - - [15/Mar/2019 11:39:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 11:39:39,971:INFO:127.0.0.1 - - [15/Mar/2019 11:39:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 11:39:39,997:INFO:127.0.0.1 - - [15/Mar/2019 11:39:39] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 11:39:47,866:INFO:KVK Client initialized without credentials
+2019-03-15 11:39:47,876:INFO:127.0.0.1 - - [15/Mar/2019 11:39:47] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 500 -
+2019-03-15 11:39:47,898:INFO:127.0.0.1 - - [15/Mar/2019 11:39:47] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-15 11:39:47,901:INFO:127.0.0.1 - - [15/Mar/2019 11:39:47] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-15 11:39:47,903:INFO:127.0.0.1 - - [15/Mar/2019 11:39:47] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-15 11:39:47,988:INFO:127.0.0.1 - - [15/Mar/2019 11:39:47] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 11:39:48,018:INFO:127.0.0.1 - - [15/Mar/2019 11:39:48] "GET /api/v1/reggy/companies/search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-15 11:39:48,087:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 11:41:58,159:INFO:KVK Client initialized without credentials
+2019-03-15 11:41:58,272:INFO:127.0.0.1 - - [15/Mar/2019 11:41:58] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 200 -
+2019-03-15 11:42:11,785:INFO:KVK Client initialized without credentials
+2019-03-15 11:42:12,313:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/server.py', reloading
+2019-03-15 11:42:23,015:INFO:KVK Client initialized without credentials
+2019-03-15 11:42:47,929:INFO:KVK Client initialized without credentials
+2019-03-15 11:43:04,485:INFO:KVK Client initialized without credentials
+2019-03-15 11:43:06,793:INFO:KVK Client initialized without credentials
+2019-03-15 11:43:06,896:INFO:127.0.0.1 - - [15/Mar/2019 11:43:06] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 200 -
+2019-03-15 11:43:11,072:INFO:KVK Client initialized without credentials
+2019-03-15 11:43:11,167:INFO:127.0.0.1 - - [15/Mar/2019 11:43:11] "GET /api/v1/reggy/companies/search?keywords=code%20coding HTTP/1.1" 200 -
+2019-03-15 11:43:15,185:INFO:KVK Client initialized without credentials
+2019-03-15 11:43:15,285:INFO:127.0.0.1 - - [15/Mar/2019 11:43:15] "GET /api/v1/reggy/companies/search?keywords=code HTTP/1.1" 200 -
+2019-03-15 11:43:18,336:INFO:KVK Client initialized without credentials
+2019-03-15 11:43:18,806:INFO:127.0.0.1 - - [15/Mar/2019 11:43:18] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 200 -
+2019-03-15 11:43:41,838:INFO:KVK Client initialized without credentials
+2019-03-15 11:43:41,983:INFO:127.0.0.1 - - [15/Mar/2019 11:43:41] "GET /api/v1/reggy/companies/search?company=code%20coding HTTP/1.1" 200 -

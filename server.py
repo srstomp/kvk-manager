@@ -3,7 +3,8 @@ from flask import (
     Flask,
     render_template,
     request,
-    jsonify
+    jsonify,
+    Markup
 )
 from urllib.parse import quote
 
@@ -20,14 +21,12 @@ def page_not_found(e):
 @app.route('/api/v1/reggy/companies/search', methods=['GET'])
 def search():
     query_parameters = request.args
-    #return request.query_string
-    urlencodedString = quote(request.query_string)
-    keywords = query_parameters.get('keywords')
-    parameters = request.query_string
-    return parameters.split('=')
+    # urlencodedString = quote(request.query_string)
+    company = query_parameters.get('company', '', type=str)
+    kvk = query_parameters.get('kvk', '', type=str)
+
     client = KVKClient()
-    #return keywords
-    return jsonify(client.search_company(keywords))
+    return jsonify(client.search_company(company, kvk))
 
 
 if __name__ == '__main__':

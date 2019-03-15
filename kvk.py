@@ -1,6 +1,3 @@
-from io import BytesIO
-from zipfile import ZipFile
-import datetime
 import requests
 import pymongo
 import json
@@ -11,21 +8,20 @@ from bs4 import (
     Tag
 )
 import re
-from urllib.parse import quote
+from urllib.parse import quote, quote_plus
 
 # l7xx2cca3b2798df458a8a8d49e8e0a4478e
 # l7xx6752e2e19e9c4f80afc28352c2a3cec8
-
-MONGO_URL = 'mongodb://localhost:27017/'
-POSTAL_CODE_URL = 'http://www.metatopos.eu/nederland2.html'
-KVK_URL = './kvk-result.json'
-BASE_URL = 'https://api.kvk.nl/api/v2/search/companies?'
-DATABASE = 'kvk'
-COLLECTION = 'search'
-
 #"nextLink": "https://api.kvk.nl/api/v2/search/companies?q=1013XC&user_key=l7xx6752e2e19e9c4f80afc28352c2a3cec8&startPage=2"
 
-class KVKClient:
+class KVKClient():
+    MONGO_URL = 'mongodb://localhost:27017/'
+    POSTAL_CODE_URL = 'http://www.metatopos.eu/nederland2.html'
+    KVK_URL = './kvk-result.json'
+    BASE_URL = 'https://api.kvk.nl/api/v2/search/companies?'
+    DATABASE = 'kvk'
+    COLLECTION = 'search'
+
     def __init__(self):
         # init logger
         self.logger = self.configure_logging()
@@ -60,10 +56,10 @@ class KVKClient:
         self.logger.info('Succesfully emptied the database')
 
     def fetch_postalcodes(self):
-        self.logger.info('Fetching postal codes from {}'.format(POSTAL_CODE_URL))
+        self.logger.info('Fetching postal codes from {}'.format(self.POSTAL_CODE_URL))
 
         # fetch html data
-        request = requests.get(POSTAL_CODE_URL)
+        request = requests.get(self.POSTAL_CODE_URL)
         soup = BeautifulSoup(request.text, 'html.parser')
 
         # find all postal codes via regex
@@ -80,18 +76,23 @@ class KVKClient:
         self.logger.info('Succesfully fetched {} postal codes'.format(len(postalcodes)))
         return postalcodes
 
-    def search_company(self, zoekterm):
+    # todo - fix search string with &
+    def search_company(self, company_name, kvk):
+        companies = []
+
         # search the kvk website for a company and then parse the address from it
-        print(zoekterm)
-        urlencodedString = quote(zoekterm)
-        return urlencodedString
-        website = 'https://zoeken.kvk.nl/search.ashx?handelsnaam=' + urlencodedString + '&kvknummer=&straat=&postcode=&huisnummer=&plaats=&hoofdvestiging=1&rechtspersoon=1&nevenvestiging=1&zoekvervallen=0&zoekuitgeschreven=1&start=0&searchfield=uitgebreidzoeken'
+        urlencodedString = quote_plus(company_name)
+
+        website = 'https://zoeken.kvk.nl/search.ashx?handelsnaam=' + urlencodedString + \
+                  '&kvknummer=' + kvk + \
+                  '&straat=&postcode=&huisnummer=&plaats=&hoofdvestiging=1&rechtspersoon=1&nevenvestiging=1&zoekvervallen=0&zoekuitgeschreven=0&start=0&searchfield=uitgebreidzoeken'
         # fetch html data
+        print(website)
         request = requests.get(website)
-        print(request.content)
         soup = BeautifulSoup(request.text, 'html.parser')
 
-        companies = []
+        if soup.find('ul', class_='results') == None:
+            return {}
 
         # loop through results
         for item in soup.find('ul', class_='results').children:
@@ -186,4 +187,4 @@ if __name__ == '__main__':
     #fetcher.collection.insert_many(result['items'])
     #client.populate_database_with_items(client.search_company('n=5'))
     client = KVKClient()
-    print(client.search_company('code&coding'))
+    print(client.search_company('code coding', ''))
