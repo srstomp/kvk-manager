@@ -943,3 +943,47 @@ Collection: companies
 2019-03-15 11:43:18,806:INFO:127.0.0.1 - - [15/Mar/2019 11:43:18] "GET /api/v1/reggy/companies/search?keywords=n=5 HTTP/1.1" 200 -
 2019-03-15 11:43:41,838:INFO:KVK Client initialized without credentials
 2019-03-15 11:43:41,983:INFO:127.0.0.1 - - [15/Mar/2019 11:43:41] "GET /api/v1/reggy/companies/search?company=code%20coding HTTP/1.1" 200 -
+2019-03-15 11:47:37,787:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 14:14:30,458:INFO:KVK Client initialized without credentials
+2019-03-15 14:14:37,524:INFO:KVK Client initialized without credentials
+2019-03-15 14:15:09,375:INFO:KVK Client initialized without credentials
+2019-03-15 14:15:22,980:INFO:KVK Client initialized without credentials
+2019-03-15 14:16:28,491:INFO:KVK Client initialized without credentials
+2019-03-15 14:19:47,976:INFO:KVK Client initialized without credentials
+2019-03-15 14:19:48,119:INFO:127.0.0.1 - - [15/Mar/2019 14:19:48] "GET /api/v1/reggy/companies/search?company=code%20coding HTTP/1.1" 200 -
+2019-03-15 14:19:48,904:INFO:KVK Client initialized without credentials
+2019-03-15 14:19:49,030:INFO:127.0.0.1 - - [15/Mar/2019 14:19:49] "GET /api/v1/reggy/companies/search?company=code%20coding HTTP/1.1" 200 -
+2019-03-15 14:19:50,763:INFO:KVK Client initialized without credentials
+2019-03-15 14:19:50,871:INFO:127.0.0.1 - - [15/Mar/2019 14:19:50] "GET /api/v1/reggy/companies/search?company=code%20coding HTTP/1.1" 200 -
+2019-03-15 14:30:34,849:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-15 20:17:19,995:INFO:KVK Client initialized without credentials
+2019-03-17 12:14:14,326:INFO:KVK Client initialized without credentials
+2019-03-17 12:14:14,471:INFO:127.0.0.1 - - [17/Mar/2019 12:14:14] "GET /api/v1/reggy/companies/search?company=code%20coding HTTP/1.1" 200 -
+2019-03-17 12:14:20,871:INFO:KVK Client initialized without credentials
+2019-03-17 12:14:20,973:INFO:127.0.0.1 - - [17/Mar/2019 12:14:20] "GET /api/v1/reggy/companies/search?kvk=code%20coding HTTP/1.1" 200 -
+2019-03-17 12:14:24,163:INFO:KVK Client initialized without credentials
+2019-03-17 12:14:24,259:INFO:127.0.0.1 - - [17/Mar/2019 12:14:24] "GET /api/v1/reggy/companies/search?kvk=6400 HTTP/1.1" 200 -
+2019-03-17 12:14:53,569:INFO:KVK Client initialized without credentials
+2019-03-17 12:14:53,667:INFO:127.0.0.1 - - [17/Mar/2019 12:14:53] "GET /api/v1/reggy/companies/search?kvk=63706903 HTTP/1.1" 200 -
+2019-03-17 12:15:13,902:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
+2019-03-17 12:15:20,042:INFO:KVK Client initialized without credentials
+2019-03-17 12:18:30,134:INFO:KVK Client initialized without credentials
+2019-03-17 12:18:56,118:INFO:KVK Client initialized without credentials
+2019-03-17 12:18:56,252:INFO:127.0.0.1 - - [17/Mar/2019 12:18:56] "GET /api/v1/reggy/companies/search?kvk=63706903 HTTP/1.1" 200 -
+2019-03-17 12:18:59,204:INFO:KVK Client initialized without credentials
+2019-03-17 12:18:59,609:INFO:127.0.0.1 - - [17/Mar/2019 12:18:59] "GET /api/v1/reggy/companies/search?company=code%20coding HTTP/1.1" 200 -
+2019-03-17 12:18:59,900:INFO:KVK Client initialized without credentials
+2019-03-17 12:19:00,463:INFO:127.0.0.1 - - [17/Mar/2019 12:19:00] "GET /api/v1/reggy/companies/search?company=code HTTP/1.1" 200 -
+2019-03-17 12:19:04,321:INFO:KVK Client initialized without credentials
+2019-03-17 12:19:04,429:INFO:127.0.0.1 - - [17/Mar/2019 12:19:04] "GET /api/v1/reggy/companies/search?company=code%26coding HTTP/1.1" 200 -
+2019-03-17 12:19:13,684:INFO:KVK Client initialized without credentials
+2019-03-17 12:19:13,832:INFO:127.0.0.1 - - [17/Mar/2019 12:19:13] "GET /api/v1/reggy/companies/search?company=code&coding HTTP/1.1" 200 -
+2019-03-17 12:19:38,222:INFO:KVK Client initialized without credentials
+2019-03-17 12:19:38,666:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/api.py', reloading
+2019-03-17 14:26:51,246:INFO:KVK Client initialized without credentials
+2019-03-17 14:26:51,409:INFO:127.0.0.1 - - [17/Mar/2019 14:26:51] "GET /api/v1/reggy/companies/search?company=code&coding HTTP/1.1" 200 -
+2019-03-17 14:26:56,790:INFO:KVK Client initialized without credentials
+2019-03-17 14:26:57,451:INFO:127.0.0.1 - - [17/Mar/2019 14:26:57] "GET /api/v1/reggy/companies/search?company=code%26coding HTTP/1.1" 200 -
+2019-03-17 14:27:08,135:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/api.py', reloading
+2019-03-17 14:27:30,065:INFO:KVK Client initialized without credentials
+2019-03-17 14:27:30,166:INFO:127.0.0.1 - - [17/Mar/2019 14:27:30] "GET /api/v1/reggy/companies/search?company=codfdsafasng HTTP/1.1" 200 -

@@ -8,7 +8,7 @@ from bs4 import (
     Tag
 )
 import re
-from urllib.parse import quote, quote_plus
+from urllib.parse import quote
 
 # l7xx2cca3b2798df458a8a8d49e8e0a4478e
 # l7xx6752e2e19e9c4f80afc28352c2a3cec8
@@ -76,16 +76,20 @@ class KVKClient():
         self.logger.info('Succesfully fetched {} postal codes'.format(len(postalcodes)))
         return postalcodes
 
-    # todo - fix search string with &
-    def search_company(self, company_name, kvk):
+    # todo - fix search string with '&'
+    def search_company(self, company_name='', kvk='', street='', postal_code='', house_number='', city=''):
         companies = []
 
         # search the kvk website for a company and then parse the address from it
-        urlencodedString = quote_plus(company_name)
+        urlencodedString = quote(company_name)
 
         website = 'https://zoeken.kvk.nl/search.ashx?handelsnaam=' + urlencodedString + \
                   '&kvknummer=' + kvk + \
-                  '&straat=&postcode=&huisnummer=&plaats=&hoofdvestiging=1&rechtspersoon=1&nevenvestiging=1&zoekvervallen=0&zoekuitgeschreven=0&start=0&searchfield=uitgebreidzoeken'
+                  '&straat=' + street + \
+                  '&postcode=' + postal_code + \
+                  '&huisnummer=' + house_number + \
+                  '&plaats=' + city + \
+                  '&hoofdvestiging=1&rechtspersoon=1&nevenvestiging=1&zoekvervallen=0&zoekuitgeschreven=1&start=0&searchfield=uitgebreidzoeken'
         # fetch html data
         print(website)
         request = requests.get(website)
@@ -187,4 +191,6 @@ if __name__ == '__main__':
     #fetcher.collection.insert_many(result['items'])
     #client.populate_database_with_items(client.search_company('n=5'))
     client = KVKClient()
-    print(client.search_company('code coding', ''))
+    print(client.search_company('', '63706903'))
+
+#https://zoeken.kvk.nl/search.ashx?handelsnaam=&kvknummer=63706903&straat=&postcode=&huisnummer=&plaats=&hoofdvestiging=1&rechtspersoon=1&nevenvestiging=1&zoekvervallen=0&zoekuitgeschreven=1&start=0&searchfield=uitgebreidzoeken&_=1552821341672
