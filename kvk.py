@@ -17,7 +17,7 @@ from urllib.parse import quote
 class KVKClient():
     MONGO_URL = 'mongodb://localhost:27017/'
     POSTAL_CODE_URL = 'http://www.metatopos.eu/nederland2.html'
-    KVK_URL = './kvk-result.json'
+    KVK_URL = ''
     BASE_URL = 'https://api.kvk.nl/api/v2/search/companies?'
     DATABASE = 'kvk'
     COLLECTION = 'search'

@@ -989,3 +989,4 @@ Collection: companies
 2019-03-17 14:27:30,166:INFO:127.0.0.1 - - [17/Mar/2019 14:27:30] "GET /api/v1/reggy/companies/search?company=codfdsafasng HTTP/1.1" 200 -
 2019-03-18 09:06:27,663:INFO:KVK Client initialized without credentials
 2019-03-18 09:06:27,832:INFO:127.0.0.1 - - [18/Mar/2019 09:06:27] "GET /api/v1/reggy/companies/search?company=code&coding HTTP/1.1" 200 -
+2019-03-18 12:03:03,651:INFO: * Detected change in '/Users/stevestomp/Projects/reggy/kvk-manager/kvk.py', reloading
