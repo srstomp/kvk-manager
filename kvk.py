@@ -10,9 +10,6 @@ from bs4 import (
 import re
 from urllib.parse import quote
 
-# l7xx2cca3b2798df458a8a8d49e8e0a4478e
-# l7xx6752e2e19e9c4f80afc28352c2a3cec8
-#"nextLink": "https://api.kvk.nl/api/v2/search/companies?q=1013XC&user_key=l7xx6752e2e19e9c4f80afc28352c2a3cec8&startPage=2"
 
 class KVKClient():
     MONGO_URL = 'mongodb://localhost:27017/'
